@@ -1,7 +1,3 @@
-### Hi there 👋
-
-Fantastic! Based on your responses, here's a tailored GitHub README for you:
-
 ---
 
 ## 👋 Hey there, I'm Abhi!
