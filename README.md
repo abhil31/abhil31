@@ -27,5 +27,3 @@
 - I'm not just into data; I also have a keen eye for capturing moments through photography. You might catch me enjoying the Bay Area vibes while snapping portraits of people.
 
 Let's connect, collaborate, and explore the fascinating realm of data together! 🚀✨
-
----
